@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245870757182",
+    "project_id": "nextshop-7485a",
+    "storage_bucket": "nextshop-7485a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245870757182:android:77d44c3c18a737ee65586f",
+        "android_client_info": {
+          "package_name": "com.example.nextshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245870757182-9gjcfgfa9vqf32ciqbq7rbtis7959j93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nextshop",
+            "certificate_hash": "7c58b070bbf57d54855cb203b1a50e95932e01c5"
+          }
+        },
+        {
+          "client_id": "245870757182-6tu7ohcgp46vd46s8qv2ugj1eo0r1313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuy7qGzZzyrWBlXhr9HEwg1oLb_HlLZbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245870757182-6tu7ohcgp46vd46s8qv2ugj1eo0r1313.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
